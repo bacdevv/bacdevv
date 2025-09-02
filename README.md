@@ -1,84 +1,76 @@
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
-### Hello 🌎, I'm Renato Resabala
+### Hello 🌎, I'm Việt Bắc
 
-With over 8 years of experience as a Software Engineer, I'm on a mission to create technology solutions that connect the digital world with real life! I have the power to develop in frontend, backend, which allows me to bring my magic to both revolutionary startups and giant enterprise projects. I'm passionate about writing clean, maintainable code and design with users in mind, thriving in environments that love innovation and continuous professional growth. Let's make technology shine! 🚀
+I’m a Computer Science student at IUH, passionate about becoming an **AI Engineer** 🤖.  
+I enjoy coding, exploring new technologies, and hitting the gym to keep both mind and body strong.  
+Currently, I’m building up my knowledge in **Java, Data Structures & Algorithms, Databases, and Python for AI/ML**.  
 
+- 🎓 I’m currently studying **Computer Science at Industrial University of Ho Chi Minh City**.  
+- 🌱 I’m currently learning: **Some courses at FrontendMaster, Security, and Cloud fundamentals**.  
+- 💬 Ask me about **Java, C/C++, Python, JavaScript, React, Databases, Algorithms, Git/GitHub**.  
+- ⚡ Fun fact: I’m the type of person who codes hard but also never skips gym day (leg day).  
 
-  - 🔭 I’m currently working on upgrading java applications from jdk 8 to 21.
-  - 🌱 I’m currently learning; Junit, Jakarta, Spring Security, Spring Cloud.
-  - 💬 Ask me about **Html, Css, Sass, Bootstrap, Javascript, Typescript, React,  PHP,  Lumen, Laravel,  C#, .NET, Java, Spring Boot, Scrum, Google Cloud Platform, GKE, GCE, CI/CD, TDD, DDD, Docker, Kubernetes**
-  - ⚡ Fun fact: I look like a hobbit.
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/RenatoResabala" target="blank"><i align="center" class="devicon-twitter-original" alt="Renato_Resabala" height="40" width="60" ></i>
-</a>
-<a href="https://www.linkedin.com/in/renato-r-611795133/" target="blank"><i align="center" class="devicon-linkedin-plain colored" alt="Renato_Resabala" height="40" width="60" ></i>
-</a>
+<a href="https://twitter.com/" target="blank"><i class="devicon-twitter-original" height="40" width="60"></i></a>
+<a href="https://www.linkedin.com/in/" target="blank"><i class="devicon-linkedin-plain colored" height="40" width="60"></i></a>
+<a href="mailto:your_email@gmail.com" target="blank"><i class="devicon-google-plain colored" height="40" width="60"></i></a>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=RResabala2015&label=Profile%20views&color=0e75b6&style=flat" alt="RResabala2015" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bacdevv&label=Profile%20views&color=0e75b6&style=flat" alt="bacdevv" /> </p>
 
+---
 
-------
 <h3 align="left">Activity:</h3>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RResabala2015&bg_color=100f0f&color=4c5e9e&line=4c569e&point=403e41&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Bắc's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bacdevv&bg_color=0d1117&color=4c5e9e&line=4c569e&point=38d252&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">
-  <a href="https://github.com/RResabala2015">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=RResabala2015&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="RResabala2015"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RResabala2015&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="RResabala2015"/>
+  <a href="https://github.com/bacdevv">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=bacdevv&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="bacdevv"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bacdevv&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="bacdevv"/>
   </a>
 </div>
 <p align="center">
-  <a href="https://github.com/RResabala2015">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=RResabala2015&&theme=tokyonight" alt="RResabala2015" />
+  <a href="https://github.com/bacdevv">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=bacdevv&theme=tokyonight" alt="bacdevv" />
   </a>
 </p>
 
-------
+---
+
 <h3 align="left">Languages and Tools:</h3>
 <table>
     <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=php,java,cs,net,python,laravel,spring,maven,hibernate,nodejs,fastapi,flask,express,nginx,vite"/></td>
+        <td><b>Backend:</b></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=java,python,cpp,nodejs,spring,express"/></td>
     </tr>
     <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=vue,vuetify,react,mui,bootstrap,html,css,sass,js,ts,figma"/></td>
+        <td><b>Frontend:</b></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap"/></td>
     </tr>
     <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,elasticsearch"/></td>
+        <td><b>Database:</b></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb"/></td>
     </tr>
     <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">DevOps:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=docker,kubernetes,gcp,terraform,jenkins,githubactions,gitlarun"/></td>
+        <td><b>DevOps:</b></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=docker,github,git"/></td>
     </tr>
     <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Automated test:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=selenium,jest,pytest,phpunit"/></td>
+        <td><b>IDEs:</b></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=vscode,eclipse,visualstudio"/></td>
     </tr>
     <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Version Control:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=git,github,gitlab,bitbucket"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Ides:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=vscode,phpstorm,eclipse,visualstudio,webstorm,sublime"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Other Tools:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=rabbitmq,grafana,bash"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Operating Systems:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=windows,ubuntu,debian,alpine"/></td>
+        <td><b>Other Tools:</b></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=figma,linux"/></td>
     </tr>
 </table>
 
-------
-[RResabala2015](https://github.com/RResabala2015)
-26/07/2024
+---
+
+[bacdevv](https://github.com/bacdevv)  
+Updated: 2025
