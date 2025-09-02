@@ -1,6 +1,6 @@
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
-### Hello 🌎, I'm Việt Bắc
+### Hello 🌎, I'm Daniel Tran
 
 I’m a Computer Science student at IUH, passionate about becoming an **AI Engineer** 🤖.  
 I enjoy coding, exploring new technologies, and hitting the gym to keep both mind and body strong.  
@@ -15,9 +15,9 @@ Currently, I’m building up my knowledge in **Java, Data Structures & Algorithm
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/" target="blank"><i class="devicon-twitter-original" height="40" width="60"></i></a>
-<a href="https://www.linkedin.com/in/" target="blank"><i class="devicon-linkedin-plain colored" height="40" width="60"></i></a>
-<a href="mailto:your_email@gmail.com" target="blank"><i class="devicon-google-plain colored" height="40" width="60"></i></a>
+<a href="https://twitter.com/harrytbc" target="blank"><i class="devicon-twitter-original" height="40" width="60"></i></a>
+<a href="[https://www.linkedin.com/in/](https://www.linkedin.com/in/tr%E1%BA%A7n-vi%E1%BB%87t-b%E1%BA%AFc-a69a33327/)" target="blank"><i class="devicon-linkedin-plain colored" height="40" width="60"></i></a>
+<a href="mailto:vietbac.coding@gmail.com" target="blank"><i class="devicon-google-plain colored" height="40" width="60"></i></a>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bacdevv&label=Profile%20views&color=0e75b6&style=flat" alt="bacdevv" /> </p>
