@@ -1,128 +1,118 @@
 <!--
-  @bacdevv | README v2 — Full-stack × AI
-  Header and pipeline illustration are local SVG files.
-  No external CSS or JavaScript; GitHub-compatible Markdown/HTML.
+  DANIEL TRAN / @bacdevv
+  PHOTO EDITION — Existing Unsplash photography + existing GitHub GIF.
+  No custom SVG files, CSS injections, or JavaScript.
 -->
 
 <div align="center">
-  <img src="./assets/hero.svg" width="100%" alt="Daniel Tran — Full-stack Developer × AI Engineering" />
-  <br />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1100&color=4CC9FF&center=true&vCenter=true&width=800&height=65&lines=Building+full-stack+experiences.;Exploring+AI+%26+Machine+Learning.;From+interfaces+to+intelligent+systems.;Learn+deeply.+Build+boldly.+Keep+shipping." alt="Typing introduction — Full-stack and AI" />
-  <br />
-  <a href="https://github.com/bacdevv?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_PROJECTS-0B1221?style=for-the-badge&logo=github&logoColor=white" alt="Explore GitHub projects" /></a>
-  <a href="https://www.linkedin.com/in/tr%E1%BA%A7n-vi%E1%BB%87t-b%E1%BA%AFc-a69a33327/"><img src="https://img.shields.io/badge/LET'S_CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
-  <a href="mailto:vietbac.coding@gmail.com"><img src="https://img.shields.io/badge/EMAIL_ME-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Daniel" /></a>
-  <br />
-  <img src="https://komarev.com/ghpvc/?username=bacdevv&label=PROFILE+VIEWS&color=22b8cf&style=flat-square" alt="Profile visits" />
-</div>
+  <a href="https://unsplash.com/photos/wet-street-at-night-in-tokyo-yVUQlyRlJSw">
+    <img width="100%" alt="Tokyo after dark — neon reflections by Valentin Beauvais" src="https://images.unsplash.com/photo-1601042879364-f3947d3f9c16?auto=format&amp;fit=crop&amp;crop=entropy&amp;w=1400&amp;h=420&amp;q=85" />
+  </a>
 
-## `01 / about.me`
+  <h1>DANIEL TRAN</h1>
 
-```typescript
-const daniel = {
-  name: 'Daniel Tran',
-  handle: '@bacdevv',
-  university: 'Industrial University of Ho Chi Minh City (IUH)',
-  major: 'Computer Science',
-  focus: ['Full-stack Development', 'AI / Machine Learning'],
-  approach: 'Understand the fundamentals → build → test → improve',
-  outsideOfCode: ['Gym', 'Learning', 'Building side projects'],
-};
-```
+  <strong><code>FULL-STACK DEVELOPER</code></strong> &nbsp; <strong>×</strong> &nbsp; <strong><code>AI ENGINEER IN PROGRESS</code></strong>
 
-I enjoy working across the **entire software stack** — from interfaces and APIs to databases — while learning how to integrate **AI** into useful, real-world products.
+  <sub>Building end-to-end software. Exploring how intelligence makes it more useful.</sub>
 
-- 🌐 **Full-stack:** Web applications, frontend experience, backend logic and data.
-- 🧠 **AI:** Python, machine learning, computer vision and experimentation.
-- 📚 **Currently learning:** System design, DSA, cloud and security fundamentals.
-- ⚡ **Off-screen:** Training at the gym and learning something new every day.
+  <br /><br />
 
-## `02 / what.i.build`
+  <a href="https://github.com/bacdevv?tab=repositories"><img alt="GitHub repositories" src="https://img.shields.io/badge/REPOSITORIES-0D1117?style=for-the-badge&amp;logo=github&amp;logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/tr%E1%BA%A7n-vi%E1%BB%87t-b%E1%BA%AFc-a69a33327/"><img alt="LinkedIn" src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" /></a>
+  <a href="mailto:vietbac.coding@gmail.com"><img alt="Email" src="https://img.shields.io/badge/EMAIL-262833?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" /></a>
 
-<div align="center">
-  <img src="./assets/build-map.svg" width="100%" alt="Software pipeline from frontend to backend, data and AI" />
-</div>
-
-| Track                      | What interests me                                                               |
-| :------------------------- | :------------------------------------------------------------------------------ |
-| **Full-stack engineering** | Responsive UIs, maintainable APIs, clean data models and user-focused features. |
-| **AI & data**              | Computer vision, machine learning, experimentation and data pipelines.          |
-| **Engineering mindset**    | Data structures, algorithms, testing, security and scalable architecture.       |
-
-## `03 / toolkit`
-
-<div align="center">
-
-**WEB / FULL-STACK**
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,bootstrap&theme=dark" alt="Web stack: HTML CSS JavaScript TypeScript React Node.js Express Bootstrap" />
-
-**LANGUAGES / BACKEND**
-
-<img src="https://skillicons.dev/icons?i=py,java,cpp,c,spring&theme=dark" alt="Languages and backend: Python Java C++ C Spring" />
-
-**DATABASES / DATA**
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite&theme=dark" alt="Databases: MySQL PostgreSQL MongoDB SQLite" />
-
-<br />
-<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
-<img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="pandas" />
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
-
-**TOOLS / WORKFLOW**
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,figma&theme=dark" alt="Developer tools: Git GitHub Docker Linux VS Code Figma" />
-
-</div>
-
-<sub>Tools reflect a mix of current practice and topics I'm actively learning — not claims of expert proficiency in every technology.</sub>
-
-## `04 / build.log`
-
-```text
-[ NOW ]  Full-stack projects + applied AI experiments
-[ NEXT ] Better software architecture, cloud, MLOps & deployment
-[ ALWAYS ] Read → build → break → debug → document → repeat
-```
-
-<a href="https://github.com/bacdevv?tab=repositories"><img src="https://img.shields.io/badge/VIEW_MY_REPOSITORIES-Explore_what_I_am_building-181717?style=for-the-badge&logo=github&logoColor=white" alt="Browse repositories" /></a>
-
-## `05 / github.telemetry`
-
-<!-- Dynamic cards are third-party services. Private-profile activity may be hidden. -->
-<details>
-  <summary><b>Open live GitHub statistics and activity</b></summary>
-  <br />
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=bacdevv&show_icons=true&hide_border=true&theme=tokyonight" height="175" alt="GitHub stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bacdevv&layout=compact&hide_border=true&theme=tokyonight" height="175" alt="Top languages" />
-    <br />
-    <img src="https://streak-stats.demolab.com?user=bacdevv&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-    <br />
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=bacdevv&bg_color=0D1117&color=59DFFF&line=A58BFF&point=FFFFFF&area=true&hide_border=true" width="98%" alt="GitHub activity" />
-  </div>
-</details>
-
-### `> contribution_snake`
-
-<!-- Upload .github/workflows/snake.yml and run the action once to create these files on the output branch. -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bacdevv/bacdevv/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bacdevv/bacdevv/output/github-snake.svg" />
-    <img width="100%" alt="Animated contribution snake" src="https://raw.githubusercontent.com/bacdevv/bacdevv/output/github-snake.svg" />
-  </picture>
 </div>
 
 ---
 
-<div align="center">
-  <b>BUILDING PRODUCTS. EXPLORING INTELLIGENCE.</b>
+### `~/about` 
+
+<table>
+<tr>
+<td width="62%" valign="top">
+
+<pre><code>$ whoami
+&gt; Daniel Tran / @bacdevv
+&gt; Computer Science @ IUH, Vietnam
+&gt; Full-stack development + AI / ML
+
+$ current_focus
+&gt; shipping applications end to end
+&gt; exploring machine learning &amp; vision
+&gt; learning systems, security &amp; cloud
+</code></pre>
+
+<p>I enjoy connecting <strong>interfaces → APIs → databases → intelligent features</strong>. I care about understanding the fundamentals and building things that work outside tutorials.</p>
+
+<p>Outside the editor: lifting, experimenting, and the occasional leg day.</p>
+
+</td>
+<td width="38%" align="center" valign="middle">
+  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="Coding vibe animation from a public GitHub GIF collection" width="300" />
   <br />
-  <sub>Daniel Tran · Computer Science @ IUH · Full-stack × AI</sub>
+  <sub>coding mode: ON</sub>
+</td>
+</tr>
+</table>
+
+### `~/stack`
+
+**01 — WEB & FULL-STACK**
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,bootstrap&amp;theme=dark" alt="Web technologies" />
+
+**02 — SOFTWARE & BACKEND**
+
+<img src="https://skillicons.dev/icons?i=py,java,cpp,c,spring&amp;theme=dark" alt="Programming languages and frameworks" />
+
+**03 — DATA & AI**
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite&amp;theme=dark" alt="Databases" />
+
+`SQL Server` · `NumPy` · `pandas` · `OpenCV` · `scikit-learn` · `Machine Learning`
+
+**04 — TOOLS**
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,figma&amp;theme=dark" alt="Developer tools" />
+
+<sub>A mix of technologies I use and subjects I am actively studying — not an expertise ranking.</sub>
+
+### `~/what_i_build`
+
+| Focus | Interests |
+|:--|:--|
+| **Full-stack** | Responsive UIs, APIs, reliable databases, good product experiences. |
+| **AI / ML** | Computer vision, model experiments, practical AI integration. |
+| **Engineering** | DSA, architecture, debugging, testing and deployment. |
+
+> **Current direction:** building practical full-stack applications and learning to integrate applied AI into them.
+
+**[Browse my repositories →](https://github.com/bacdevv?tab=repositories)**
+
+### `~/activity`
+
+<details>
+<summary><b>Open GitHub activity & statistics</b></summary>
+<br />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bacdevv&amp;show_icons=true&amp;hide_border=true&amp;theme=tokyonight" height="165" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bacdevv&amp;layout=compact&amp;hide_border=true&amp;theme=tokyonight" height="165" alt="GitHub languages" />
+  <br />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bacdevv&amp;theme=tokyo-night&amp;hide_border=true" alt="GitHub activity graph" width="95%" />
+</div>
+</details>
+
+---
+
+<div align="center">
+
+  <code>daniel@bacdevv:~$ build | learn | repeat</code>
+
   <br /><br />
-  <a href="mailto:vietbac.coding@gmail.com"><img src="https://img.shields.io/badge/LET'S_BUILD_SOMETHING-22D3EE?style=for-the-badge&logo=gmail&logoColor=0B1221" alt="Let's build something" /></a>
+
+  [Email](mailto:vietbac.coding@gmail.com) · [LinkedIn](https://www.linkedin.com/in/tr%E1%BA%A7n-vi%E1%BB%87t-b%E1%BA%AFc-a69a33327/) · [GitHub](https://github.com/bacdevv)
+
+  <br />
+  <sub>Cover photo: <a href="https://unsplash.com/photos/wet-street-at-night-in-tokyo-yVUQlyRlJSw">Valentin BEAUVAIS / Unsplash</a> · Coding GIF: <a href="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub">Cool GIFs For GitHub</a></sub>
+
 </div>
