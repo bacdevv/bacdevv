@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="218" viewBox="0 0 1200 218" role="img" aria-label="Full-stack and AI architecture from frontend to backend to data to intelligence">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0B1324"/><stop offset="1" stop-color="#15132D"/></linearGradient><linearGradient id="ln" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#44DDFF"/><stop offset="1" stop-color="#AD85FF"/></linearGradient><style>.m{font-family:Consolas,Menlo,'DejaVu Sans Mono',monospace}</style></defs>
+<rect width="1200" height="218" rx="18" fill="url(#bg)"/><rect x="1" y="1" width="1198" height="216" rx="17" fill="none" stroke="#354766"/>
+<text x="34" y="32" class="m" font-size="13" fill="#8AA9CC" letter-spacing="2">SYSTEM MAP  //  HOW I THINK ABOUT BUILDING PRODUCTS</text>
+<path d="M230 126h741" stroke="url(#ln)" stroke-width="3" stroke-dasharray="5 7"/>
+<g text-anchor="middle" class="m" font-size="15" font-weight="700">
+<g><rect x="34" y="78" width="240" height="99" rx="13" fill="#122A3A" stroke="#38DFFF" stroke-width="1.5"/><text x="154" y="111" fill="#6FE8FF">01 / FRONTEND</text><text x="154" y="146" font-weight="400" fill="#B4C4DF" font-size="13">interfaces &amp; UX</text></g>
+<g><rect x="329" y="78" width="240" height="99" rx="13" fill="#16233A" stroke="#70B5FA" stroke-width="1.5"/><text x="449" y="111" fill="#92C7FF">02 / BACKEND</text><text x="449" y="146" font-weight="400" fill="#B4C4DF" font-size="13">APIs &amp; logic</text></g>
+<g><rect x="624" y="78" width="240" height="99" rx="13" fill="#1F1C3B" stroke="#AA83FF" stroke-width="1.5"/><text x="744" y="111" fill="#C4A4FF">03 / DATA</text><text x="744" y="146" font-weight="400" fill="#B4C4DF" font-size="13">storage &amp; pipelines</text></g>
+<g><rect x="919" y="78" width="247" height="99" rx="13" fill="#271B39" stroke="#D599FF" stroke-width="1.5"/><text x="1042" y="111" fill="#E1B5FF">04 / AI</text><text x="1042" y="146" font-weight="400" fill="#B4C4DF" font-size="13">models &amp; insight</text></g>
+</g>
+</svg>

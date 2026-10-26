@@ -3,27 +3,24 @@ name: Generate Contribution Snake
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 0 * * *" # Every day at 00:00 UTC
-  push:
-    paths:
-      - ".github/workflows/snake.yml"
+    - cron: "15 2 * * *" # Once daily, UTC
 
 permissions:
   contents: write
 
 jobs:
-  build-snake:
+  snake:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate light and dark snake SVGs
+      - name: Create light and dark animated SVG files
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: bacdevv
           outputs: |
-            dist/github-snake.svg?color_snake=%2300BFA5&color_dots=%23EBEDF0,%23B3E5FC,%234FC3F7,%2300B8D4,%23007796
-            dist/github-snake-dark.svg?color_snake=%2300E5FF&color_dots=%23161B22,%231E3A8A,%234338CA,%237C3AED,%2300E5FF
+            dist/github-snake.svg?palette=github-light&color_snake=%2327D3E5
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=%239E80FF
 
-      - name: Publish SVGs to output branch
+      - name: Push generated files to output branch
         uses: crazy-max/ghaction-github-pages@v5
         with:
           target_branch: output

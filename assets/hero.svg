@@ -1,0 +1,122 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="430" viewBox="0 0 1200 430" role="img" aria-labelledby="t d">
+<title id="t">Daniel Tran — Full-stack Developer and AI Engineer in Progress</title>
+<desc id="d">Custom dark technical banner featuring Full-stack and AI, neon cyan and lilac circuitry</desc>
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#070D1B"/><stop offset="45%" stop-color="#0B1128"/><stop offset="100%" stop-color="#11102A"/></linearGradient>
+ <linearGradient id="word" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#FFFFFF"/><stop offset="52%" stop-color="#EDF9FF"/><stop offset="100%" stop-color="#58E3FF"/></linearGradient>
+ <linearGradient id="neon" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#27E0FF"/><stop offset="1" stop-color="#B07BFF"/></linearGradient>
+ <radialGradient id="haze"><stop offset="0%" stop-color="#722EBD" stop-opacity=".3"/><stop offset="100%" stop-color="#722EBD" stop-opacity="0"/></radialGradient>
+ <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M 36 0 L 0 0 0 36" fill="none" stroke="#7C8BBD" stroke-width=".65" opacity=".13"/></pattern>
+ <filter id="glow"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+ <filter id="soft"><feGaussianBlur stdDeviation="24"/></filter>
+ <clipPath id="clip"><rect x="1.5" y="1.5" width="1197" height="427" rx="22"/></clipPath>
+ <style>
+  .code {font-family: 'Consolas','Menlo','DejaVu Sans Mono',monospace;}
+  .sans {font-family: 'Segoe UI','Inter','DejaVu Sans',sans-serif;}
+  @keyframes spin {to{transform: rotate(360deg);}}
+  @keyframes fade {0%,100%{opacity:.45}50%{opacity:1}}
+  @keyframes flow {to{stroke-dashoffset:-42;}}
+  .spin {transform-origin:995px 216px;animation:spin 30s linear infinite;}
+  .pulse {animation:fade 3s ease-in-out infinite;}
+  .flow {animation:flow 6s linear infinite;}
+  @media (prefers-reduced-motion:reduce) { .spin,.pulse,.flow { animation:none; } }
+ </style>
+</defs>
+<g clip-path="url(#clip)">
+  <rect width="1200" height="430" fill="url(#bg)"/>
+  <rect width="1200" height="430" fill="url(#grid)" />
+  <circle cx="1030" cy="180" r="340" fill="url(#haze)" />
+  <ellipse cx="990" cy="195" rx="240" ry="180" fill="#035F8C" opacity=".18" filter="url(#soft)" />
+  <circle cx="740" cy="50" r="1.0" fill="#B5EFFF" opacity="0.6"/>
+<circle cx="949" cy="310" r="1.0" fill="#B5EFFF" opacity="0.32"/>
+<circle cx="1069" cy="215" r="1.0" fill="#B5EFFF" opacity="0.6"/>
+<circle cx="68" cy="70" r="0.8" fill="#B5EFFF" opacity="0.32"/>
+<circle cx="1006" cy="388" r="1.4" fill="#B5EFFF" opacity="0.18"/>
+<circle cx="895" cy="135" r="0.8" fill="#B5EFFF" opacity="0.6"/>
+<circle cx="1072" cy="201" r="1.0" fill="#B5EFFF" opacity="0.26"/>
+<circle cx="786" cy="384" r="1.4" fill="#B5EFFF" opacity="0.32"/>
+<circle cx="720" cy="303" r="1.4" fill="#B5EFFF" opacity="0.26"/>
+<circle cx="508" cy="391" r="0.8" fill="#B5EFFF" opacity="0.26"/>
+<circle cx="703" cy="68" r="1.0" fill="#B5EFFF" opacity="0.6"/>
+<circle cx="805" cy="278" r="1.4" fill="#B5EFFF" opacity="0.32"/>
+<circle cx="218" cy="350" r="0.8" fill="#B5EFFF" opacity="0.32"/>
+<circle cx="743" cy="363" r="1.0" fill="#B5EFFF" opacity="0.26"/>
+<circle cx="1157" cy="151" r="1.0" fill="#B5EFFF" opacity="0.6"/>
+<circle cx="1177" cy="38" r="1.0" fill="#B5EFFF" opacity="0.32"/>
+<circle cx="1172" cy="220" r="1.0" fill="#B5EFFF" opacity="0.6"/>
+<circle cx="1014" cy="147" r="1.4" fill="#B5EFFF" opacity="0.6"/>
+<circle cx="1140" cy="339" r="0.8" fill="#B5EFFF" opacity="0.18"/>
+<circle cx="1139" cy="261" r="1.0" fill="#B5EFFF" opacity="0.32"/>
+<circle cx="562" cy="347" r="1.4" fill="#B5EFFF" opacity="0.6"/>
+<circle cx="986" cy="380" r="1.4" fill="#B5EFFF" opacity="0.32"/>
+<circle cx="728" cy="238" r="1.4" fill="#B5EFFF" opacity="0.26"/>
+<circle cx="426" cy="83" r="0.8" fill="#B5EFFF" opacity="0.26"/>
+<circle cx="724" cy="288" r="1.0" fill="#B5EFFF" opacity="0.18"/>
+<circle cx="20" cy="352" r="0.8" fill="#B5EFFF" opacity="0.46"/>
+<circle cx="391" cy="396" r="1.4" fill="#B5EFFF" opacity="0.46"/>
+<circle cx="1101" cy="250" r="1.4" fill="#B5EFFF" opacity="0.6"/>
+<circle cx="40" cy="373" r="0.8" fill="#B5EFFF" opacity="0.26"/>
+<circle cx="712" cy="343" r="0.8" fill="#B5EFFF" opacity="0.6"/>
+<circle cx="500" cy="382" r="0.8" fill="#B5EFFF" opacity="0.46"/>
+<circle cx="272" cy="29" r="0.8" fill="#B5EFFF" opacity="0.32"/>
+<circle cx="1115" cy="95" r="1.4" fill="#B5EFFF" opacity="0.6"/>
+<circle cx="1026" cy="193" r="1.4" fill="#B5EFFF" opacity="0.18"/>
+<circle cx="875" cy="199" r="1.0" fill="#B5EFFF" opacity="0.6"/>
+<circle cx="1021" cy="324" r="0.8" fill="#B5EFFF" opacity="0.18"/>
+<circle cx="1060" cy="77" r="1.0" fill="#B5EFFF" opacity="0.46"/>
+<circle cx="1174" cy="285" r="0.8" fill="#B5EFFF" opacity="0.32"/>
+<circle cx="1023" cy="275" r="0.8" fill="#B5EFFF" opacity="0.26"/>
+<circle cx="741" cy="187" r="0.8" fill="#B5EFFF" opacity="0.46"/>
+<circle cx="221" cy="361" r="1.0" fill="#B5EFFF" opacity="0.46"/>
+<circle cx="586" cy="344" r="1.4" fill="#B5EFFF" opacity="0.18"/>
+<circle cx="1167" cy="114" r="1.4" fill="#B5EFFF" opacity="0.32"/>
+<circle cx="1130" cy="265" r="1.0" fill="#B5EFFF" opacity="0.18"/>
+<circle cx="997" cy="293" r="1.4" fill="#B5EFFF" opacity="0.32"/>
+<circle cx="439" cy="392" r="1.4" fill="#B5EFFF" opacity="0.18"/>
+  <path d="M0 368h1200" stroke="#2B3856" opacity=".68"/>
+  <path d="M16 18h1168v394H16z" fill="none" stroke="#A8CAFF" opacity=".16"/>
+  <path d="M0 0h322" stroke="#2BE2FE" stroke-width="4"/>
+  <path d="M878 430h322" stroke="#A783FF" stroke-width="4"/>
+  <g class="code" font-size="13" letter-spacing="2">
+    <text x="58" y="55" fill="#6FE5FC">~/github/bacdevv</text>
+    <text x="272" y="55" fill="#8394B5">  •  PROFILE / v2.0</text>
+    <rect x="58" y="76" width="88" height="3" rx="1" fill="#55E6FF"/>
+  </g>
+  <text x="54" y="194" class="sans" font-size="89" font-weight="800" letter-spacing="-4.2" fill="url(#word)">DANIEL</text>
+  <text x="54" y="283" class="sans" font-size="89" font-weight="800" letter-spacing="-4.2" fill="url(#word)">TRAN<tspan fill="#40DFFF">.</tspan></text>
+  <text x="60" y="322" class="code" font-size="22" font-weight="700" fill="#77EAFF" letter-spacing="0.4">FULL-STACK</text>
+  <text x="254" y="322" class="code" font-size="22" font-weight="700" fill="#AC8AFF">×</text>
+  <text x="284" y="322" class="code" font-size="22" font-weight="700" fill="#D3BCFF">AI ENGINEERING</text>
+  <text x="60" y="351" class="sans" font-size="16" fill="#AAB6D3">Turning ideas into products. Connecting software with intelligence.</text>
+  <g class="code" font-size="12" letter-spacing="1.2">
+    <circle cx="65" cy="394" r="5" fill="#43E3A2" class="pulse"/>
+    <text x="80" y="398" fill="#B7F5D9">OPEN TO LEARNING &amp; BUILDING</text>
+    <text x="582" y="398" fill="#7383A6">HCMC / VIET NAM</text>
+  </g>
+  <!-- visual map: frontend -> backend -> AI -->
+  <g transform="translate(0,0)">
+    <circle cx="997" cy="211" r="166" fill="none" stroke="#607EAC" stroke-width="1" opacity=".28" />
+    <circle cx="997" cy="211" r="128" fill="none" stroke="#57CBFF" stroke-width="1" stroke-dasharray="2 11" opacity=".5" class="spin" />
+    <circle cx="997" cy="211" r="104" fill="none" stroke="#C1A0FF" stroke-width="2" stroke-dasharray="58 18" opacity=".65" class="spin" />
+    <circle cx="997" cy="211" r="76" fill="#091526" stroke="#33D6F7" stroke-width="1.5" />
+    <circle cx="997" cy="211" r="59" fill="none" stroke="#1D748B" stroke-width="1" opacity=".7"/>
+    <path d="M971 191l-24 20 24 20M1023 191l24 20-24 20" fill="none" stroke="#4BE2FF" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" filter="url(#glow)"/>
+    <path d="M1008 180l-19 62" stroke="#B790FF" stroke-width="4" stroke-linecap="round" />
+    <g class="code" font-size="12" font-weight="bold" text-anchor="middle">
+      <rect x="865" y="54" width="133" height="31" rx="8" fill="#10223B" stroke="#25718C"/>
+      <text x="931" y="74" fill="#8AE8F6">UI / WEB</text>
+      <rect x="1057" y="116" width="113" height="31" rx="8" fill="#1B1740" stroke="#7466AB"/>
+      <text x="1113" y="136" fill="#CBB6FF">API / DB</text>
+      <rect x="1057" y="313" width="113" height="31" rx="8" fill="#152541" stroke="#377EA2"/>
+      <text x="1113" y="333" fill="#8AE8F6">AI / DATA</text>
+    </g>
+    <path d="M922 85l23 40" stroke="#2CD7F4" stroke-width="2" stroke-dasharray="5 6" class="flow" opacity=".6" />
+    <path d="M1057 132l-13 27" stroke="#A47AF4" stroke-width="2" stroke-dasharray="5 6" class="flow" opacity=".6" />
+    <path d="M1057 329l-20-47" stroke="#2CD7F4" stroke-width="2" stroke-dasharray="5 6" class="flow" opacity=".6" />
+    <circle cx="997" cy="82" r="5" fill="#5DEEFF" filter="url(#glow)" class="pulse"/>
+    <circle cx="1100" cy="238" r="5" fill="#A782FF" filter="url(#glow)" class="pulse"/>
+    <circle cx="891" cy="230" r="4" fill="#5DEEFF" filter="url(#glow)" class="pulse"/>
+  </g>
+</g>
+<rect x="1.5" y="1.5" width="1197" height="427" rx="22" fill="none" stroke="#2C436B" stroke-width="3"/>
+</svg>
